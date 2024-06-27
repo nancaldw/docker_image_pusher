@@ -1,1 +1,1 @@
-186184848/documentserver:8.1.0
+186184848/documentserver
