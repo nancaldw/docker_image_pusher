@@ -1,1 +1,1 @@
-questdb:6.0.5
+questdb
