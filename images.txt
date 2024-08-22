@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 mysql:8.0.29
+--platform=linux/arm64 seataio/seata-server:1.6.1
