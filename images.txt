@@ -1,1 +1,1 @@
---platform=linux/arm64 nacos/nacos-server:v2.2.0
+--platform=linux/arm64 openjdk:8
