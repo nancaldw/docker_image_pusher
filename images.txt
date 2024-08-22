@@ -1,1 +1,1 @@
---platform=linux/arm64 nacos/nacos-server:v2.4.1
+--platform=linux/arm64/v8 docker pull mysql:8.0.29
