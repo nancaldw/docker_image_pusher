@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2022-07-08T00-05-23Z  --platform=arm64
+minio/minio:RELEASE.2022-07-08T00-05-23Z  --platform=linux/arm64
