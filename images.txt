@@ -1,1 +1,1 @@
---platform=linux/arm64 docker pull nacos/nacos-server:v2.4.0.1
+--platform=linux/arm64 nacos/nacos-server:v2.4.1
