@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 centos:7.9.2009
+--platform=linux/arm64/v8 zookeeper:3.4.13
