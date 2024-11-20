@@ -1,1 +1,1 @@
---platform=linux/arm64 minio/minio:RELEASE.2022-05-08T23-50-31Z
+rabbitmq:3.12.8-management
