@@ -1,1 +1,1 @@
-DATAHUB_MYSQL_VERSION:8.2
+confluentinc/cp-zookeeper:7.4.0
