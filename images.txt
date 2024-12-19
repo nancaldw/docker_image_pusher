@@ -1,13 +1,1 @@
 DATAHUB_MYSQL_VERSION:8.2
-golang:1-alpine3.20
-confluentinc/cp-kafka:7.4.0
-acryldata/datahub-gms:head
-acryldata/datahub-frontend-react:head
-acryldata/datahub-gms:head
-acryldata/datahub-upgrade:head
-elasticsearch:7.10.1
-acryldata/datahub-elasticsearch-setup:head
-acryldata/datahub-kafka-setup:head
-acryldata/datahub-mysql-setup:head
-confluentinc/cp-schema-registry:7.4.0
-confluentinc/cp-zookeeper:7.4.0
