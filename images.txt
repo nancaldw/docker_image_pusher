@@ -1,1 +1,1 @@
-acryldata/datahub-actions:head
+browserless/chrome:1.60.2-puppeteer-14.4.1
