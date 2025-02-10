@@ -1,1 +1,1 @@
-browserless/chrome:1.60.2-puppeteer-14.4.1
+mysql:8.0.29
