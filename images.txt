@@ -1,1 +1,1 @@
-mysql:8.0.29
+--platform=linux/arm64/v8 osixia/keepalived:release-2.1.5-dev
