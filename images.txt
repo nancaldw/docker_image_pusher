@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 osixia/keepalived:release-2.1.5-dev
+python:3.9.19
