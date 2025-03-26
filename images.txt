@@ -1,5 +1,6 @@
 #--platform=linux/arm64  python:3.9.19
-apache/dolphinscheduler-api:3.2.2
-apache/dolphinscheduler-worker:3.2.2
-apache/dolphinscheduler-alert-server:3.2.2
-apache/dolphinscheduler-tools:3.2.2
+#apache/dolphinscheduler-api:3.2.2
+#apache/dolphinscheduler-worker:3.2.2
+#apache/dolphinscheduler-alert-server:3.2.2
+#apache/dolphinscheduler-tools:3.2.2
+zookeeper:3.8.4
