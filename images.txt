@@ -3,4 +3,4 @@
 #apache/dolphinscheduler-worker:3.2.2
 #apache/dolphinscheduler-alert-server:3.2.2
 #apache/dolphinscheduler-tools:3.2.2
-zookeeper:3.8.4
+dolphinscheduler-helm --version 3.2.2
