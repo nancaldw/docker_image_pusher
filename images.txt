@@ -5,5 +5,5 @@
 #apache/dolphinscheduler-tools:3.2.2
 #dolphinscheduler-helm:3.2.2
 #heartexlabs/label-studio:latest
---platform=linux/arm64 heartexlabs/label-studio:1.17.0
-#heartexlabs/label-studio:1.18.0
+#--platform=linux/arm64 heartexlabs/label-studio:1.17.0
+heartexlabs/label-studio:1.17.0
