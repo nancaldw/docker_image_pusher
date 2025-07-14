@@ -8,4 +8,4 @@
 #--platform=linux/arm64 heartexlabs/label-studio:1.17.0
 #heartexlabs/label-studio:1.17.0
 #apache/doris:operator-latest
---platform=linux/arm64 openjdk:8
+--platform=linux/arm64 browserless/chrome:1.60.2-puppeteer-14.4.1
