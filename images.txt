@@ -9,4 +9,5 @@
 #heartexlabs/label-studio:1.17.0
 #apache/doris:operator-latest
 #--platform=linux/arm64 browserless/chrome:1.60.2-puppeteer-14.4.1
-zookeeper:3.6.2
+#zookeeper:3.6.2
+nginx:1.24.0
