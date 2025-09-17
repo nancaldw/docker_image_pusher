@@ -15,4 +15,5 @@ langgenius/dify-plugin-daemon:0.2.0-local
 #opengauss/opengauss:7.0.0-RC1
 #matrixorigin/matrixone:2.1.1
 #oceanbase/oceanbase-ce:4.3.5-lts
-dataease/sqlbot:v1.1.0
+#dataease/sqlbot:v1.1.0
+nocobase/nocobase:1.8.25-full
