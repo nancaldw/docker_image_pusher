@@ -18,4 +18,4 @@ langgenius/dify-plugin-daemon:0.2.0-local
 #dataease/sqlbot:v1.1.0
 #nocobase/nocobase:1.8.25-full
 #centos:centos7.9.2009
-zookeeper:3.14.3
+zookeeper:3.4.14
