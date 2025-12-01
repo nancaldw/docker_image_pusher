@@ -23,5 +23,5 @@ langgenius/dify-plugin-daemon:0.2.0-local
 #neo4j:4.4.46
 #milvusdb/milvus:v2.6.4
 #--platform=linux/arm64/v8  centos:centos7.9.2009
- #microsoft/mssql-server-linux:2012-latest
-mcr.microsoft.com/mssql/server:2012-latest
+ microsoft/mssql-server-linux:2012-latest
+#mcr.microsoft.com/mssql/server:2012-latest
