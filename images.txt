@@ -10,7 +10,7 @@
 #apache/doris:operator-latest
 #--platform=linux/arm64 browserless/chrome:1.60.2-puppeteer-14.4.1
 #zookeeper:3.6.2
-nginx:1.24.0
+#nginx:1.24.0
 langgenius/dify-plugin-daemon:0.2.0-local
 #opengauss/opengauss:7.0.0-RC1
 #matrixorigin/matrixone:2.1.1
@@ -23,5 +23,5 @@ langgenius/dify-plugin-daemon:0.2.0-local
 #neo4j:4.4.46
 #milvusdb/milvus:v2.6.4
 #--platform=linux/arm64/v8  centos:centos7.9.2009
- #microsoft/mssql-server-linux:2012-latest
+microsoft/mssql-server-linux:2012-latest
 #mcr.microsoft.com/mssql/server:2012-latest
