@@ -27,4 +27,5 @@
 #mcr.microsoft.com/mssql/server:2012-latest
 #openjdk:17.0.2
 #--platform=linux/arm64   browserless/chrome:1.60.2-puppeteer-14.4.1
-hdxin2002/ultrarag:v0.3.0
+#hdxin2002/ultrarag:v0.3.0
+hdxin2002/ultrarag:v0.3.0-base-cpu
