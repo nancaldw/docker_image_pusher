@@ -30,4 +30,6 @@
 #hdxin2002/ultrarag:v0.3.0
 #hdxin2002/ultrarag:v0.3.0-base-cpu
 #--platform=linux/arm64/v8 zookeeper:3.4.13
---platform=linux/arm64/v8 redis:6.2.6
+#--platform=linux/arm64/v8 redis:6.2.6
+protegeproject/webprotege
+mongo:4.1-bionic
