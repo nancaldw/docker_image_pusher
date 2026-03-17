@@ -33,4 +33,5 @@
 #--platform=linux/arm64/v8 redis:6.2.6
 #protegeproject/webprotege
 #mongo:4.1-bionic
-hugegraph/hugegraph:1.7.0
+#hugegraph/hugegraph:1.7.0
+heartexlabs/label-studio-ml-backend:yolo-master
