@@ -26,6 +26,7 @@
 #microsoft/mssql-server-linux:2012-latest
 #mcr.microsoft.com/mssql/server:2012-latest
 #openjdk:17.0.2
+--platform=linux/arm64/v8 openjdk:17.0.2
 #--platform=linux/arm64   browserless/chrome:1.60.2-puppeteer-14.4.1
 #hdxin2002/ultrarag:v0.3.0
 #hdxin2002/ultrarag:v0.3.0-base-cpu
@@ -34,4 +35,4 @@
 #protegeproject/webprotege
 #mongo:4.1-bionic
 #hugegraph/hugegraph:1.7.0
-heartexlabs/label-studio-ml-backend:yolo-master
+#heartexlabs/label-studio-ml-backend:yolo-master
