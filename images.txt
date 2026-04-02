@@ -36,7 +36,7 @@
 #mongo:4.1-bionic
 #hugegraph/hugegraph:1.7.0
 #heartexlabs/label-studio-ml-backend:yolo-master
---platform=linux/arm64 heartexlabs/label-studio:1.17.0
---platform=linux/arm64/v8 nginx:1.20.2
-
+#--platform=linux/arm64 heartexlabs/label-studio:1.17.0
+#--platform=linux/arm64/v8 nginx:1.20.2
+--platform=linux/arm64/v8  zookeeper:3.4.13
 
