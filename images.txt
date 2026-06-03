@@ -43,5 +43,5 @@
 #--platform=linux/arm64  6053537/portainer-ce:2.33.6
 #--platform=linux/arm64 portainer/agent:2.33.6
 #ollama/ollama:latest
-#apache/doris:be-4.1.1
-apache/doris:fe-4.1.1
+apache/doris:be-4.1.1
+#apache/doris:fe-4.1.1
