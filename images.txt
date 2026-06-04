@@ -46,5 +46,5 @@
 #apache/doris:be-4.1.1
 #apache/doris:fe-4.1.1
 #prom/prometheus:v3.11.3
-#grafana/grafana:10.4.18
-prom/node-exporter:v1.8.2
+grafana/grafana:12.0.1
+#prom/node-exporter:v1.8.2
