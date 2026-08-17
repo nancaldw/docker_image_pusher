@@ -50,4 +50,5 @@
 #prom/node-exporter:v1.8.2
 #--platform=linux/arm64/v8 nginx:1.30.2
 #--platform=linux/arm64/v8 neo4j:4.4.46-community
---platform=linux/arm64 nacos/nacos-server:v2.2.0-slim
+#--platform=linux/arm64 nacos/nacos-server:v2.2.0-slim
+ alpine/dfimage:1
