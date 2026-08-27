@@ -53,4 +53,5 @@
 #--platform=linux/arm64 nacos/nacos-server:v2.2.0-slim
 # alpine/dfimage:1
 #postgres:17.11
-pgsty/silo:RELEASE.2026-08-06T00-00-00Z 
+#pgsty/silo:RELEASE.2026-08-06T00-00-00Z 
+redis:8.6.6
