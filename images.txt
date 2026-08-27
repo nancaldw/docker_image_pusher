@@ -52,4 +52,5 @@
 #--platform=linux/arm64/v8 neo4j:4.4.46-community
 #--platform=linux/arm64 nacos/nacos-server:v2.2.0-slim
 # alpine/dfimage:1
-postgres:17.11
+#postgres:17.11
+pgsty/silo:RELEASE.2026-08-06T00-00-00Z 
