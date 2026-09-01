@@ -54,4 +54,5 @@
 # alpine/dfimage:1
 #postgres:17.11
 #pgsty/silo:RELEASE.2026-08-06T00-00-00Z 
-redis:8.6.6
+#redis:8.6.6
+zookeeper:3.8.3
