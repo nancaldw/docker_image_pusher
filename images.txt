@@ -57,4 +57,4 @@
 #redis:8.6.6
 #zookeeper:3.8.3
 #--platform=linux/arm64 heartexlabs/label-studio:1.23.2
-ubuntu:24.04
+--platform=linux/arm64  ubuntu:24.04
