@@ -59,4 +59,5 @@
 #--platform=linux/arm64 heartexlabs/label-studio:1.23.2
 #--platform=linux/arm64  ubuntu:24.04
 #python:3.10.22-slim
---platform=linux/arm64/v8 python:3.10.22-slim
+#--platform=linux/arm64/v8 python:3.10.22-slim
+--platform=linux/arm64/v8 openjdk:17.0.2
